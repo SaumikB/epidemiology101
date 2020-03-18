@@ -6,7 +6,7 @@ body {background-color: #e1b382;}
   margin-bottom: 10%;
   margin-right: 10%;
   margin-left: 10%;
-  
+  box-shadow: 10px 10px 5px #c89666;
 }
 #container {
 
