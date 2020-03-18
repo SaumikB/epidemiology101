@@ -1,6 +1,6 @@
 body {background-color: #e1b382;}
 #all{
-  background-color: #f0fcfc;
+  background-image: radial-gradient(#f0fcfc, white);
   margin-top: 10%;
   margin-bottom: 10%;
   margin-right: 10%;
@@ -14,7 +14,7 @@ body {background-color: #e1b382;}
   margin-bottom: 10%;
   margin-right: 5%;
   margin-left: 5%;
-  background-color: #f0fcfc;
+  background-image: radial-gradient(#f0fcfc, white);
   text-align: justify;
   text-justify: inter-word;
 }
