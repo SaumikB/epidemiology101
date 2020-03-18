@@ -1,7 +1,6 @@
 body {background-color: #e1b382;}
 #all{
-  background-image: radial-gradient(#f0fcfc, white);
-  margin-top: 10%;
+  background-image: linear-gradient(to bottom right, #f0fcfc, white);
   margin-bottom: 10%;
   margin-right: 10%;
   margin-left: 10%;
@@ -14,7 +13,7 @@ body {background-color: #e1b382;}
   margin-bottom: 10%;
   margin-right: 5%;
   margin-left: 5%;
-  background-image: radial-gradient(#f0fcfc, white);
+  background-image: linear-gradient(to bottom right, #f0fcfc, white);
   text-align: justify;
   text-justify: inter-word;
 }
