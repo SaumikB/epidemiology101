@@ -15,5 +15,6 @@ body {background-color: #e1b382;}
   margin-right: 5%;
   margin-left: 5%;
   background-color: #f0fcfc;
-text-align: justify;
+  text-align: justify;
+  text-justify: inter-word;
 }
