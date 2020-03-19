@@ -8,6 +8,12 @@ body {background-color: #e1b382;}
   box-shadow: 10px 10px 5px #c89666;
 color: #292727;
 }
+#links {
+mrgin:none;
+border: none;
+padding-top: 2%;
+  text-align:right;
+}
 #container {
 
   border: none;
