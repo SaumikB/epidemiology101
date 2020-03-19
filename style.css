@@ -9,10 +9,11 @@ body {background-color: #e1b382;}
 color: #292727;
 }
 #links {
-mrgin:none;
+margin:none;
 border: none;
 padding-top: 2%;
-  text-align:right;
+margin-right: 5%;
+text-align:right;
 }
 #container {
 
