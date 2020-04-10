@@ -15,6 +15,13 @@ padding-top: 2%;
 margin-right: 5%;
 text-align:right;
 }
+#chapter {
+margin:none;
+border: none;
+padding-top: 2%;
+margin-right: 5%;
+text-align:left;
+}
 #container {
 
   border: none;
